@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_launchx_app.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
